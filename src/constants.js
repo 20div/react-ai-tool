@@ -1,1 +1,1 @@
-export const URL= "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAuc2AB0T4RARtx5RaGY4Vnye3euDQgkYw"
+export const GOOGLE_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY; 
